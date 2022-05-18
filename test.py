@@ -1,7 +1,7 @@
+#write code to multiply a number by 7 using * operator
+def main():
+    print("test")
 
-#what is linked list?
-#data structure that store value, 
+if __name__ == "__main__":
+    main()
 
-class Linklist(object):
-    def __init__(data: int, ):
-        self.

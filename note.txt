@@ -1,0 +1,13 @@
+types of network protocols:
+    Communication protocols: basic data communication tools like TCP/IP and HTTP.
+        TCP: Transfer control protocol. Transfer service from browser to server and back, slow but all data get packaged and transfer fully. 
+        UDP: Transfer too but sometimes data is lost, use for stream and services where data lost does not really matter.
+    Management protocols: 
+
+
+OOP: object oriented design, it's when for example we want to create an object, an object with behaviors and varibles. We could go ahead and create that only one instance, 
+But the problem is if we want to save that of an instance for later use. Or create multiple of them, then there is OOP come into place
+with OOP, the benefit is for readability, understandabiloty, and maintainability of the code.
+
+
+
